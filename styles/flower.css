@@ -1,0 +1,143 @@
+.banner {
+    display: flex;
+    background-color: #E554731A;
+  }
+  
+  .banner .main-pic {
+    width: 500px;
+    height: 800px;
+  }
+  
+  .banner-greeting {
+    color: #272727;
+    font-family: "lato", sans-serif;
+    font-size: 75px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 197px;
+    margin-bottom: 16px;
+    margin-right: 17px;
+    margin-left: 240px;
+    
+    
+  }
+  
+  .paragraph {
+    color: #27272799;
+    font-family: "lato", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    color: #27272799;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-right: 171px;
+    margin-left: 240px;
+  }
+  
+  .btn {
+    color: #FFF;
+    font-family: "lato", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    margin-top: 16px;
+    margin-bottom: 147px;
+    margin-right: 628px;
+    margin-left: 240px;
+  }
+  
+.main-pic {
+    width: 635px;
+    margin-top: 50px;
+    margin-bottom: px;
+    margin-right: 240px;
+    margin-left: 97px;
+  }
+    
+   
+.bsec2
+{
+    color: #272727;
+text-align: center;
+font-family: "lato", sans-serif;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-bottom: 12px;
+}
+.bsec3{
+    color: #27272799;
+text-align: center;
+font-family: "lato", sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-right: 663px;
+margin-left: 663px;
+margin-top: 12px;
+
+}
+.banner3 {
+    display: flex;
+    text-align: center;
+    font-family: "lato", sans-serif;
+    text-decoration: underline;
+    font-size: 20px;
+    }
+
+
+.pic2{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+width: 464px;
+height: 538px;
+margin-top: 110px;
+    margin-bottom: 0px;
+    margin-right: 90px;
+    margin-left: 176px;
+
+}
+.pic3{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+width: 464px;
+height: 538px;
+margin-top: 110px;
+    margin-bottom: 0 px;
+    margin-right: 47px;
+    margin-left: 59px;
+
+}
+.pic4{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+width: 464px;
+height: 538px;
+margin-top: 110px;
+    margin-bottom: 0px;
+    margin-right: 305px;
+    margin-left: 87px;
+
+}
+
+.banner4{
+    display: flex;
+    align-items: center;
+    margin-right: 240px;
+    margin-left: 240px;
+    background: #2727270D;
+
+}
+/*add shit for all pics in banner4
+/* also fix the measurements
+/*sdgfuasygfuy
