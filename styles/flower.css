@@ -295,3 +295,67 @@ margin-right: 12px;
     margin-right: 12px;
     margin-left: 12px;
 }
+.banner8{
+     
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    font-family: "lato", sans-serif;
+        width: 1440px;
+        height: 449px;
+        border-radius: 8px;
+background: url(C:\Projects\assignment\Flower Asset\Rectangle 9.png), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+}
+.btn3{
+    color: #FFF;
+    font-family: "lato", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding: 8px 35px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+   
+}
+.banner82{
+    display: flex;
+}
+.pa {
+    background-color: black;
+    text-align: center;
+    padding: 80px;
+    font-family: "lato", sans-serif;
+  }
+  
+  .pa1 {
+    color: #E55473;
+    font-size: 48px;
+   
+  }
+  
+  .pa2 {
+    color: white;
+    
+  }
+  
+  .pa3 {
+    color: gray;
+  
+  }
+  
+  .paa {
+    color: white;
+    font-size: 48px;
+  
+  }
+  
+  .pw {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+  }
+  
