@@ -305,14 +305,16 @@ margin-right: 12px;
         width: 1440px;
         height: 449px;
         border-radius: 8px;
-background: url(C:\Projects\assignment\Flower Asset\Rectangle 9.png), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+        background-color: white;
+        background-image: url('Flower Asset\Rectangle 9.png');
+        background-repeat: no-repeat;
 }
 .btn3{
     color: #FFF;
     font-family: "lato", sans-serif;
     font-size: 16px;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 800;
     line-height: normal;
     padding: 8px 35px;
     gap: 10px;
